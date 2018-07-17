@@ -1,4 +1,4 @@
-<!-- DataTable Bootstrap Script -->
+<!-- DataTable Bootstrap Script test1 changed by anu -->
 <script src="${js}/angular.js"></script>
 
 <!-- DataTable Bootstrap Script -->
